@@ -1,1 +1,85 @@
 /* Write CSS code here */
+#content1{
+   
+    display: flex;
+    background-color: black
+   
+}
+h1{
+    color: white;
+    margin-left: 100px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+pre{
+    color: white;
+    padding-top: 10px;
+   
+}
+#id1{
+    
+    display: flex;
+    margin-left: 50px;
+    padding-left: 20px;
+    justify-content: flex-end;
+    padding-top: 10px;
+   
+}
+
+a{
+    text-decoration: none;
+    margin-left: 50px;
+    color: white;
+}
+#id2> a{
+ 
+  border-bottom: 1px solid white;
+  margin-left: 300px;
+}
+
+li{
+    list-style-type: none;
+   
+}
+#skill{
+   
+    font-size: small;
+   margin-left: 50px;
+   margin-right: 50px;
+   background-color: white;
+   border-radius: 5px;
+ box-shadow: 5px 5px 6px 5px rgb(79, 75, 75);
+ padding: 10px;
+ margin-top: 20px;
+   
+}
+#skill2{
+   margin-right: 50px;
+}
+
+#main{
+    display: flex;
+    background-color: #047ade;
+    padding-bottom: 50px;
+    
+}
+#readmore{
+    
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 5px;
+   margin-left: -10px;
+   
+}
+h2{
+    margin-left: 40px;
+}
+#web{
+    position: absolute;
+}
+body{
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 200px;
+}
+
+    
